@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=AndreiMiculita&label=Profile%20views&color=62d8ff&style=flat" alt="raagn08" /> 
 </p>
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreiMiculita&show_icons=true&theme=prussian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndreiMiculita&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
