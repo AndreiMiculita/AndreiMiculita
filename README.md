@@ -7,7 +7,10 @@
 </p>
 <p align="center">
   Backend developer at Belsimpel|Gomibo in Groningen. I hold an MSc in AI (with a strong focus on Research) from the University
-of Groningen and a BSc in Computer Engineering from the Polytechnic University of Timișoara. Master's thesis at: https://github.com/AndreiMiculita/nbv_mevs
+of Groningen and a BSc in Computer Engineering from the Polytechnic University of Timișoara. 
+</p>
+<p align="center">
+  Master's thesis at: https://github.com/AndreiMiculita/nbv_mevs
 </p>
 
 <p align="center"> 
