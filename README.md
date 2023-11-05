@@ -6,7 +6,10 @@
   /anˈdrej mi.kuˈli.t͡sə/
 </p>
 <p align="center">
-  Studying AI at the University of Groningen.
+  Backend developer at Belsimpel|Gomibo in Groningen. I hold an MSc in AI (with a strong focus on Research) from the University
+of Groningen and a BSc in Computer Engineering from the Polytechnic University of Timișoara.
+
+Master's thesis at: https://github.com/AndreiMiculita/nbv_mevs
 </p>
 
 <p align="center"> 
