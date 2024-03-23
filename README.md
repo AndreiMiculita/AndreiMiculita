@@ -6,7 +6,7 @@
   /anˈdrej mi.kuˈli.t͡sə/
 </p>
 <p align="center">
-  Backend developer at Belsimpel|Gomibo in Groningen. I hold an MSc in AI (with a strong focus on Research) from the University
+  Software Engineer at MindAffect in the Netherlands. I hold an MSc in AI (with a strong focus on Research) from the University
 of Groningen and a BSc in Computer Engineering from the Polytechnic University of Timișoara. 
 </p>
 <p align="center">
